@@ -24,6 +24,35 @@ My long-term goal is to develop and launch AI automation agents that:
 
 I am to release at least one AI automation agent per month, continuously improving my skills while building practical tools for real-world use.
 
+## What I'm Currently Learning
+
+I'm focusing on three key areas:
+
+* Programming and Development
+  - Understanding the fundamentals of programming (starting with Python and JavaScript).
+  - Learning web development to build AI-powered dashboards and automation tools.
+  - Exploring backend development to enhance automation capabilities.
+
+* AI and Automation
+  - Testing and implementing AI-powered tools for summarization, automation, and business optimization.
+  - Experimenting with AI models that can analyze text, generate insights, and automate repetitive tasks.
+  - Working with no-code automation platforms to create seamless workflows.
+
+* Software and tools
+  - No-code automation: Make, N8n, Relevance AI.
+  - Development Environment: Linux (Xubuntu) on VirtualBox.
+  - Version Control: Git & Github for tracking progress and collaborating on project.
+  - Cloud and APIs: Learning how to integrate AI models into real-world applications.
+ 
+## Skills and Techonologies I'm Exploring
+
+- Programming Languages: Python (beginner), JavaScript (beginner)
+- Automation Tools: Make, N8n, Relevance AI
+- Development Environment: Linux (Xubuntu), VirtualBox
+- Version Control: Git & Github
+- Cloud and APIs: Exploring AI and automation API integrations
+
+
 
 
 
